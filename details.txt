@@ -8,3 +8,5 @@ GND	                      GND
 
 
 reference: https://randomnerdtutorials.com/esp32-microsd-card-arduino/
+
+SD CARD USED: Transcend 8GB MICROSDHC
