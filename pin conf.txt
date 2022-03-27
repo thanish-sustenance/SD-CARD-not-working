@@ -1,0 +1,10 @@
+MicroSD card module       ESP32
+3V3	                      3.3V
+CS	                      GPIO 5
+MOSI	                    GPIO 23
+CLK	                      GPIO 18
+MISO	                    GPIO 19
+GND	                      GND
+
+
+reference: https://randomnerdtutorials.com/esp32-microsd-card-arduino/
