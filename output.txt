@@ -1,0 +1,12 @@
+12:52:18.953 -> ets Jun  8 2016 00:22:57
+12:52:18.953 -> 
+12:52:18.953 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+12:52:18.953 -> configsip: 0, SPIWP:0xee
+12:52:18.953 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+12:52:18.953 -> mode:DIO, clock div:1
+12:52:18.953 -> load:0x3fff0018,len:4
+12:52:19.000 -> load:0x3fff001c,len:1044
+12:52:19.000 -> load:0x40078000,len:10124
+12:52:19.000 -> load:0x40080400,len:5856
+12:52:19.000 -> entry 0x400806a8
+12:52:20.123 -> Card Mount Failed
